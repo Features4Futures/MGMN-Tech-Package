@@ -7,7 +7,7 @@ This repository hosts the technical package for the Magnetic Gradient Manipulati
 ⸻
 
 Contents
-	•	MGMN_Technical_Package_v1.0.pdf – complete 20-page dossier
+	•	MGMN_Technical_Package_v1.0.pdf – complete 45-page dossier
 
 ⸻
 
